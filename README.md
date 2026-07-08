@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dudeangelis&style=flat-square&color=FFFFFF80&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=dudeangelis&style=flat-square&color=FFFFF80&label=PROFILE+VIEWS)
 
 </div>
 
