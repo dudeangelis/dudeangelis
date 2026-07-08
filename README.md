@@ -7,22 +7,22 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/demo/?font=IM+Fell+English+SC&size=26&letterSpacing=4%25&pause=900&color=FFFFFF80&center=true&vCenter=true&width=600&height=60&lines=Cybersecurity+and+Analyst;Welcome+to+my+world..." alt="Typing SVG"/>
 </div>
-
 <br/>
+
 <!-- CONTACT -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/duda-d-angelis/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duda-d-angelis/)
 
 </div>
-
 <br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dudeangelisa&style=flat-square&color=FFFFFF80&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=dudeangelis&style=flat-square&color=FFFFFF80&label=PROFILE+VIEWS)
 
 </div>
+
 ---
 
 **Cybersecurity**
@@ -34,7 +34,7 @@ Currently deepening my studies in **C**, **SQL**, **Analysis**, **Development** 
 
 I also have experience with **HTML**, **CSS**, **Java**, **Linux**, **Hardware**, **Git**, **Operating System** and am currently exploring **AWS & Cloud Computing**.
 
-Class: Analise e Desenvolvimento de Sistemas (ADS) - Faculdade de Tecnologia de São Paulo -- Brazil.
+Class: Análise e Desenvolvimento de Sistemas (ADS) - Faculdade de Tecnologia de São Paulo -- Brazil.
 
 ---
 
@@ -60,15 +60,14 @@ Class: Analise e Desenvolvimento de Sistemas (ADS) - Faculdade de Tecnologia de 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=dudeangelis&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
-
 <br/><br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=dudeagelis&show_icons=true&theme=dark&title_color=FFFFFF80&icon_color=FFFFFF80text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=dudeangelis&show_icons=true&theme=dark&title_color=FFFFFF80&icon_color=FFFFFF80&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudeangelis&layout=compact&theme=dark&title_color=FFFFFF80&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
 ---
+
 ## Contribution Graph
 
 <div align="center">
@@ -76,5 +75,3 @@ Class: Analise e Desenvolvimento de Sistemas (ADS) - Faculdade de Tecnologia de 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dudeangelis&bg_color=0d0d0d&color=FFFFFF80&line=FFFFFF80&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/dudeangelis)
 
 </div>
-
----
