@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dudeangelis&style=flat-square&color=FFFF80&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=dudeangelis&style=flat-square&color=bcbcb5&label=PROFILE+VIEWS)
 
 </div>
 
@@ -30,7 +30,7 @@
 > *"The Linux philosophy is 'Laugh in the face of danger'. Oops. Wrong One. 'Do it yourself'. Yes, that's it.
 > -Linus Torvalds"*
 
-Currently deepening my studies in **C**, **SQL**, **Analysis**, **Development** and **Cybersecurity**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
+Currently deepening my studies in **C**, **SQL**, **Analysis**, **Development** and **Cybersecurity**, applying this knowledge to real personal projects — automation bots, Linux, Operating System and web tools.
 
 I also have experience with **HTML**, **CSS**, **Java**, **Linux**, **Hardware**, **Git**, **Operating System** and am currently exploring **AWS & Cloud Computing**.
 
