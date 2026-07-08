@@ -59,7 +59,7 @@ Class: Análise e Desenvolvimento de Sistemas (ADS) - Faculdade de Tecnologia de
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dudeangelis&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=dudeangelis&theme=dark&ring=cccccc&fire=cccccc&currStreakLabel=cccccc&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=cccccc" alt="streak"/>
 <br/><br/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dudeangelis&show_icons=true&theme=dark&title_color=FFFFFF80&icon_color=FFFFFF80&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudeangelis&layout=compact&theme=dark&title_color=FFFFFF80&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
@@ -72,6 +72,6 @@ Class: Análise e Desenvolvimento de Sistemas (ADS) - Faculdade de Tecnologia de
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dudeangelis&bg_color=0d0d0d&color=FFFFFF80&line=FFFFFF80&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/dudeangelis)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dudeangelis&bg_color=0d0d0d&color=FFFFFF80&line=FFFFFF80&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=cccccc)](https://github.com/dudeangelis)
 
 </div>
