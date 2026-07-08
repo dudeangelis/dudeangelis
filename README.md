@@ -30,7 +30,7 @@
 > *"The Linux philosophy is 'Laugh in the face of danger'. Oops. Wrong One. 'Do it yourself'. Yes, that's it.
 > -Linus Torvalds"*
 
-Currently deepening my studies in **C**, **SQL**, **Analysis**, **Development** and **Cybersecurity**, applying this knowledge to real personal projects — automation bots, Linux, Operating System and web tools.
+Currently deepening my studies in **C**, **SQL**, **Analysis**, **Development** and **Cybersecurity**, applying this knowledge to real personal projects — automation bots, Operating System and web tools.
 
 I also have experience with **HTML**, **CSS**, **Java**, **Linux**, **Hardware**, **Git**, **Operating System** and am currently exploring **AWS & Cloud Computing**.
 
